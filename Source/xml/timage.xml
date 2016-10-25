@@ -1,0 +1,13 @@
+<object>
+  <name>Image</name>
+  <type>TImage</type>
+  <attributes>
+    <left>120</left>
+	<top>10</top>
+	<width>408</width>
+	<height>248</height>
+	<autosize>false</autosize>
+	<filepath>./blob.jpg</filepath>
+	
+	</attributes>
+</object>

@@ -1,0 +1,12 @@
+Design UI for editor - 
+   panel down the right hand side which contains components.these are formed from XML. 
+   along the top a menu file->new page,new component :
+   panel in middle this is the editor main area. componets are dropped on here and editted with properties. a save button will be needed
+ 
+use PHP for the backend
+needs to display ui
+needs a XML parser to display the component palette
+
+use PHP to display the front end
+need to display the pages created and in the right order
+need a XML parser to work out what is on the page

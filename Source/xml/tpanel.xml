@@ -1,0 +1,19 @@
+<object>
+  <name>Panel</name>
+  <type>TPanel</type>
+  <attributes>
+    <left>120</left>
+	<top>10</top>
+	<width>408</width>
+	<height>248</height>
+	<caption>Sample Panel</caption>
+	<color>clBtnFace</color>
+	<font>
+	   <charset>DEFAULT_CHARSET</charset>
+	   <color>clWindowText</color>
+	   <height>11</height>
+	   <name>Tahoma</name>
+	   <style>[]</style>
+	</font>
+	</attributes>
+</object>  
